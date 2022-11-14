@@ -18,6 +18,7 @@ Propriedades Aprendidas:
 <li>offsetTop</li>
 <li>pageX e pageY</li>
 <li>shiftKey</li>
+<li>Math.PI</li>
 </ul>
 
 metódos aprendidos
