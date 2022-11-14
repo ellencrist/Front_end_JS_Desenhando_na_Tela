@@ -1,6 +1,6 @@
 # Front_end_JS_Desenhando_na_Tela
 Lógica 2 do curso ONE Oracle Next Education
-<p>Front-end com JavaScript<p>
+<p>Front-end com JavaScript Animações e Desenhos<p>
 
 Funções Aprendidas:
 <ul>
@@ -9,6 +9,7 @@ Funções Aprendidas:
 <li>fill</li>
 <li>beginPath</li>
 <li>definição de  funções anônimas</li>
+<li>setInverval</li>
 </ul>
 
 Propriedades Aprendidas:
@@ -19,6 +20,7 @@ Propriedades Aprendidas:
 <li>pageX e pageY</li>
 <li>shiftKey</li>
 <li>Math.PI</li>
+  <li>length</li>
 </ul>
 
 metódos aprendidos
@@ -27,6 +29,9 @@ metódos aprendidos
 <li>fillRect</li>
 <li>getContext</li>
 <li>querySelector</li>
+<li>clearRect</li>
+<li>moveTo</li>
+<li>lineTo</li>
 </ul>
 
 eventos aprendidos:
@@ -35,6 +40,11 @@ eventos aprendidos:
 <li>onclick</li>
 <li>altKey(Windows) e ctrKey(Linux)</li>
 <li>onmousemove, onmouseup, onmousedown</li>
+</ul>
+
+operadores lógicos aprendidos:
+<ul>
+  <li>NOT - !</li>
 </ul>
 
 Ferramenta usada:
