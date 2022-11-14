@@ -13,6 +13,10 @@ Funções Aprendidas:
 Propriedades Aprendidas:
 <ul>
 <li>fillStyle</li>
+<li>offsetLeft</li>
+<li>offsetTop</li>
+<li>pageX e pageY</li>
+<li>shiftKey</li>
 </ul>
 
 metódos aprendidos
@@ -20,6 +24,11 @@ metódos aprendidos
 <li>arc</li>
 </ul>
 
+eventos aprendidos:
+<ul>
+<li>oncontextmenu</li>
+<li>onclick</li>
+</ul>
 
 Ferramenta usada:
 
